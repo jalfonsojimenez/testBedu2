@@ -10,3 +10,5 @@ if develop agregada:
     pass to produccion
 
 se agrega la parte de produccion
+
+lista la parte en main
