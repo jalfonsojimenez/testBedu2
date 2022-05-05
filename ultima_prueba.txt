@@ -1,0 +1,6 @@
+ultima prueba antes de hacer el ejercicio 
+
+primera etapa de testing:
+if testing is ok:
+    pass to develop
+
