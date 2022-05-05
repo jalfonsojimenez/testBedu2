@@ -1,0 +1,11 @@
+ultima prueba antes de hacer el ejercicio 
+
+primera etapa de testing:
+if testing is ok:
+    pass to develop
+    
+
+se agrega la parte de develop
+if develop agregada:
+    pass to produccion
+
